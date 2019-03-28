@@ -1,5 +1,5 @@
 var s = Snap("#snappy");
-Snap.load("prototypes/mozambique.svg", 
+Snap.load("mozambique.svg", 
           onSVGLoaded);
 
 function onSVGLoaded(data) {
